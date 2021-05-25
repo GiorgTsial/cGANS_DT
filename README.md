@@ -4,7 +4,7 @@ The current repository contains code to generate data, run the experiments and r
 for using generative models in order to define digital twins/mirrors of a simulated cantilever 
 structure with uncertainties.
 
-Data: contains the data used in order to recreate the experiments.
+Data: the proper datasets can be found in https://drive.google.com/drive/folders/1Ykv_lC1SkRbWtWFoSE_PWK2zd1CgyZqx?usp=sharing and contains the data used in order to recreate the experiments.
 
 BeamSFEM: contains the code needed to run the stochastic finite element simulations.
 
